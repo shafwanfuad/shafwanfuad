@@ -49,16 +49,21 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats (Realtime)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafwanfuad&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shafwanfuad&theme=highcontrast&hide_border=false&cache_seconds=1" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shafwanfuad&show_icons=true&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafwanfuad&layout=compact&theme=react&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shafwanfuad&show_icons=true&theme=react&border_radius=10&cache_seconds=1&v=2" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafwanfuad&layout=compact&theme=react&border_radius=10&cache_seconds=1&v=2&langs_count=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafwanfuad&theme=react-dark&area=true&hide_border=true" />
+</p>
 ---
 
 ## 📫 Connect With Me
