@@ -49,10 +49,10 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
 
 ---
 
-## 📊 GitHub Stats (Realtime)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shafwanfuad&theme=highcontrast&hide_border=false&cache_seconds=1" />
+  <img src="https://streak-stats.demolab.com?user=shafwanfuad&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&cache_seconds=1&v=2" />
 </p>
 
 <p align="center">
@@ -64,7 +64,6 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafwanfuad&theme=react-dark&area=true&hide_border=true" />
 </p>
----
 
 ## 📫 Connect With Me
 <p align="center">
@@ -79,18 +78,3 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
 <p align="center">
   <i>"Code is where art meets logic."</i>
 </p>
-
-<!--
-**shafwanfuad/shafwanfuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
