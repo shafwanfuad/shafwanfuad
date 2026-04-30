@@ -74,7 +74,6 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
     <img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <i>"Code is where art meets logic."</i>
 </p>
