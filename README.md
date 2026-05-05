@@ -51,18 +51,11 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shafwanfuad&theme=react&hide_border=false" alt="GitHub Streak" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=shafwanfuad&theme=react)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafwanfuad&show_icons=true&theme=react&rank_icon=github" width="48%" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafwanfuad&layout=compact&theme=react" width="48%" alt="Top Langs" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=shafwanfuad&show_icons=true&theme=react)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafwanfuad&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafwanfuad&layout=compact&theme=react)
 
 ## 📫 Connect With Me
 <p align="center">
