@@ -27,6 +27,8 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP_(BLADE)-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### **Logic & Database**
@@ -64,15 +66,21 @@ Halo! Saya **Shafwan Fuad**, mahasiswa **Teknik Rekayasa Perangkat Lunak (TRPL)*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafwanfuad&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
+---
+
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/shafwanfuad">
-    <img src="https://img.shields.io/badge/GITHUB-shafwanfuad-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:sapwanfuad@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shafwan_fuad?igsh=MTJ6c2l6ZWIzNjltaw==">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 <p align="center">
   <i>"Code is where art meets logic."</i>
 </p>
